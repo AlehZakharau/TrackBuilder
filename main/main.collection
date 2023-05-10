@@ -3160,26 +3160,6 @@ instances {
   }
 }
 instances {
-  id: "point159"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 512.0
-    y: 267.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
   id: "point160"
   prototype: "/main/point_track1.go"
   position {
@@ -3313,6 +3293,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3332,6 +3320,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3353,6 +3349,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3372,6 +3376,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3393,6 +3405,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3412,6 +3432,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3433,6 +3461,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3452,6 +3488,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3473,6 +3517,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3492,6 +3544,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3513,6 +3573,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3532,6 +3600,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3553,6 +3629,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3572,6 +3656,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3593,6 +3685,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3612,6 +3712,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3633,6 +3741,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3652,6 +3768,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3673,6 +3797,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3692,6 +3824,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3713,6 +3853,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3732,6 +3880,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3753,6 +3909,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3772,6 +3936,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3793,6 +3965,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3812,6 +3992,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3833,6 +4021,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3852,6 +4048,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3873,6 +4077,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3892,6 +4104,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3913,6 +4133,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3932,6 +4160,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3953,6 +4189,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3972,6 +4216,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3993,6 +4245,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4012,6 +4272,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4033,6 +4301,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4052,6 +4328,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4073,6 +4357,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4092,6 +4384,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4113,6 +4413,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4132,6 +4440,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4153,6 +4469,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4172,6 +4496,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4193,6 +4525,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4212,6 +4552,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4233,6 +4581,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4252,6 +4608,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4273,6 +4637,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4292,6 +4664,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4313,6 +4693,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4332,6 +4720,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4353,6 +4749,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4372,6 +4776,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4393,6 +4805,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4412,6 +4832,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4433,6 +4861,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4452,6 +4888,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4473,6 +4917,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4492,6 +4944,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4513,6 +4973,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4532,6 +5000,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4553,6 +5029,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4572,6 +5056,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4593,6 +5085,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4612,6 +5112,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4633,6 +5141,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4652,6 +5168,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4673,6 +5197,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4692,6 +5224,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4713,6 +5253,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4732,6 +5280,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4753,6 +5309,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4772,6 +5336,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4793,6 +5365,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4812,6 +5392,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4833,6 +5421,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4852,6 +5448,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4873,6 +5477,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4892,6 +5504,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4913,6 +5533,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4932,6 +5560,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4953,6 +5589,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -4972,6 +5616,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4993,6 +5645,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5012,6 +5672,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5033,6 +5701,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5052,6 +5728,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5073,6 +5757,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5092,6 +5784,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5113,6 +5813,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5132,6 +5840,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5153,6 +5869,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5172,6 +5896,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5193,6 +5925,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5212,6 +5952,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5233,6 +5981,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5252,6 +6008,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5273,6 +6037,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5292,6 +6064,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5313,6 +6093,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5332,6 +6120,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5353,6 +6149,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5372,6 +6176,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5393,6 +6205,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5412,6 +6232,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5433,6 +6261,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5452,6 +6288,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5473,6 +6317,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5492,6 +6344,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5513,6 +6373,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5532,6 +6400,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5553,6 +6429,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5572,6 +6456,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5593,6 +6485,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5612,6 +6512,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5633,6 +6541,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5652,6 +6568,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5673,6 +6597,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5692,6 +6624,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5713,6 +6653,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5732,6 +6680,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5753,6 +6709,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5772,6 +6736,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5793,6 +6765,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5812,6 +6792,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5833,6 +6821,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5852,6 +6848,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5873,6 +6877,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5892,6 +6904,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5913,6 +6933,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5932,6 +6960,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5953,6 +6989,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -5972,6 +7016,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5993,6 +7045,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6012,6 +7072,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6033,6 +7101,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6052,6 +7128,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6073,6 +7157,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6092,6 +7184,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6113,6 +7213,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6132,6 +7240,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6153,6 +7269,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6172,6 +7296,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6193,6 +7325,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6212,6 +7352,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6233,6 +7381,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6252,6 +7408,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6273,6 +7437,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6292,6 +7464,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6313,6 +7493,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6332,6 +7520,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6353,6 +7549,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6372,6 +7576,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6393,6 +7605,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6412,6 +7632,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6433,25 +7661,13 @@ instances {
     z: 0.0
     w: 1.0
   }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point324"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 512.0
-    y: 267.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6473,6 +7689,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6492,6 +7716,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6513,6 +7745,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6532,6 +7772,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6553,6 +7801,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6573,6 +7829,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -6592,6 +7856,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -6816,7 +8088,6 @@ embedded_instances {
   children: "point156"
   children: "point157"
   children: "point158"
-  children: "point159"
   children: "point16"
   children: "point160"
   children: "point161"
@@ -6914,7 +8185,24 @@ embedded_instances {
   children: "point97"
   children: "point98"
   children: "point99"
-  data: ""
+  data: "components {\n"
+  "  id: \"track\"\n"
+  "  component: \"/main/track.script\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  ""
   position {
     x: 0.0
     y: 0.0
@@ -7091,7 +8379,6 @@ embedded_instances {
   children: "point321"
   children: "point322"
   children: "point323"
-  children: "point324"
   children: "point325"
   children: "point326"
   children: "point327"
@@ -7099,7 +8386,24 @@ embedded_instances {
   children: "point329"
   children: "point330"
   children: "point331"
-  data: ""
+  data: "components {\n"
+  "  id: \"track\"\n"
+  "  component: \"/main/track.script\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
+  "  }\n"
+  "}\n"
+  ""
   position {
     x: 832.0
     y: 0.0

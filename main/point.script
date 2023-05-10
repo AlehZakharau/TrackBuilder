@@ -4,6 +4,8 @@ go.property("connector", false)
 
 
 function init(self)
+	local parent =go.get_parent()
+
 	local position = go.get_position(".")
 	msg.post("/go", "point", {
 		position = position,

@@ -1,8 +1,4 @@
-function init(self)
-	msg.post(".", "acquire_input_focus")
-end
-
-local points = {}
+local common_points = {}
 
 local points_track_1 = {}
 local points_track_2 = {}
@@ -14,23 +10,20 @@ local file_name = "points_1"
 local file_name_2 = "points_2"
 
 
-local function get_coord(message, points, index)
-	if points[message.id] == nil then
-		points[message.id] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector }
-		points[index] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector}
-	else
-		print("double data was send")
-	end
+function init(self)
+	msg.post(".", "acquire_input_focus")
+	points_track_1 = {}
+	points_track_2 = {}
 end
 
 function on_message(self, message_id, message, sender)
 	if message_id == hash("point") then
-		print("point " .. " track: " .. message.track .. " || " .. message.position )
+		--print("point " .. " track: " .. message.track .. " || " .. message.position )
 		if message.track == 1 then
-			get_coord(message, points_track_1, index_track_1)
+			points_track_1[index_track_1] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector, id = message.id }
 			index_track_1 = index_track_1 + 1
 		else
-			get_coord(message, points_track_2, index_track_2)
+			points_track_2[index_track_2] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector, id = message.id }
 			index_track_2 = index_track_2 + 1
 		end
 	end	
@@ -43,13 +36,13 @@ local function print_track(track)
 end
 
 local function check_data(track)
-	for i = 1, #track do
-		for j = 1, #track do
-			if j ~= i and track[i].position ==  track[j].position then
-				go.set_position(track[i].position, "/point_connector_track_2")
-				print(track[i].position)
-				print(track[j].position)
-				error("the same coord in track " .. i .. ":".. j)
+	for k,v in pairs(track) do
+		for n,m in pairs(track) do
+			if v.id ~= m.id and v.position == m.position then
+				go.set_position(v.position, "/point_connector_track_2")
+				print(v.position)
+				print(m.position)
+				error("the same coord in track " .. v.id .. ":".. m.id)
 			end
 		end
 	end
