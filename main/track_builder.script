@@ -2,30 +2,44 @@ function init(self)
 	msg.post(".", "acquire_input_focus")
 end
 
-local points = {}
-local index = 1
+local points_track_1 = {}
+local points_track_2 = {}
+local index_track_1 = 1
+local index_track_2 = 1
 
 local file_path = "/Users/alehzakharau/Documents/Defold/Projects/InfinityRace/data"
-local file_name = "points"
+local file_name = "points_1"
+local file_name_2 = "points_2"
+
+
+local function get_coord(message, points, index)
+	points[index] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector}
+	index = index + 1
+end
 
 function on_message(self, message_id, message, sender)
 	if message_id == hash("point") then
-		local point_pos = message.position
-		print("b: " .. point_pos)
-		points[index] = {x = point_pos.x, y = point_pos.y}
-		index = index + 1
+		if message.track == 1 then
+			get_coord(message, points_track_1, index_track_1)
+		else
+			get_coord(message, points_track_2, index_track_2)
+		end
 	end	
+end
+
+local function print_track(track)
+	for k,v in pairs(track) do
+		print(k .. " track: " .. v.track .. " || " .. v.position )
+	end
 end
 
 function on_input(self, action_id, action)
 	if action_id == hash("touch") and action.released then 
-		for k,v in pairs(points) do
-			print(k .. ": " .. v.x .. ":" .. v.y)
-			local path = sys.get_save_file(file_path, file_name)
-			sys.save(path, points)
-			local load_table = sys.load(path)
-			print("L: " .. load_table[1].x .. load_table[1].y)
-			print("L: " .. load_table[2].x .. load_table[2].y)
-		end
+		print_track(points_track_1)
+		print_track(points_track_2)
+		local path_track_1 = sys.get_save_file(file_path, file_name)
+		local path_track_2 = sys.get_save_file(file_path, file_name_2)
+		sys.save(path_track_1, points_track_1)
+		sys.save(path_track_2, points_track_2)
 	end	
 end
