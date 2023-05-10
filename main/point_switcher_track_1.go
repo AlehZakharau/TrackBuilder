@@ -12,12 +12,17 @@ components {
     z: 0.0
     w: 1.0
   }
+  properties {
+    id: "switcher"
+    value: "true"
+    type: PROPERTY_TYPE_BOOLEAN
+  }
 }
 embedded_components {
   id: "sprite"
   type: "sprite"
   data: "tile_set: \"/assets/base.atlas\"\n"
-  "default_animation: \"track_1\"\n"
+  "default_animation: \"switcher\"\n"
   "material: \"/builtins/materials/sprite.material\"\n"
   "blend_mode: BLEND_MODE_ALPHA\n"
   ""

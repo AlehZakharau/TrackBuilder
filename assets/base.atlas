@@ -1,5 +1,17 @@
 images {
-  image: "/assets/circle.png"
+  image: "/assets/track_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/track_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/switcher.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/connector.png"
   sprite_trim_mode: SPRITE_TRIM_MODE_OFF
 }
 margin: 0
