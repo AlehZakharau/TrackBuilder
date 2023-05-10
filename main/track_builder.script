@@ -2,6 +2,8 @@ function init(self)
 	msg.post(".", "acquire_input_focus")
 end
 
+local points = {}
+
 local points_track_1 = {}
 local points_track_2 = {}
 local index_track_1 = 1
@@ -13,16 +15,23 @@ local file_name_2 = "points_2"
 
 
 local function get_coord(message, points, index)
-	points[index] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector}
-	index = index + 1
+	if points[message.id] == nil then
+		points[message.id] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector }
+		points[index] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector}
+	else
+		print("double data was send")
+	end
 end
 
 function on_message(self, message_id, message, sender)
 	if message_id == hash("point") then
+		print("point " .. " track: " .. message.track .. " || " .. message.position )
 		if message.track == 1 then
 			get_coord(message, points_track_1, index_track_1)
+			index_track_1 = index_track_1 + 1
 		else
 			get_coord(message, points_track_2, index_track_2)
+			index_track_2 = index_track_2 + 1
 		end
 	end	
 end
@@ -33,10 +42,25 @@ local function print_track(track)
 	end
 end
 
+local function check_data(track)
+	for i = 1, #track do
+		for j = 1, #track do
+			if j ~= i and track[i].position ==  track[j].position then
+				go.set_position(track[i].position, "/point_connector_track_2")
+				print(track[i].position)
+				print(track[j].position)
+				error("the same coord in track " .. i .. ":".. j)
+			end
+		end
+	end
+end
+
 function on_input(self, action_id, action)
 	if action_id == hash("touch") and action.released then 
 		print_track(points_track_1)
 		print_track(points_track_2)
+		check_data(points_track_1)
+		check_data(points_track_2)
 		local path_track_1 = sys.get_save_file(file_path, file_name)
 		local path_track_2 = sys.get_save_file(file_path, file_name_2)
 		sys.save(path_track_1, points_track_1)

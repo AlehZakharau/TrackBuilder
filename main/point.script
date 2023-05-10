@@ -5,11 +5,11 @@ go.property("connector", false)
 
 function init(self)
 	local position = go.get_position(".")
-	print(position)
 	msg.post("/go", "point", {
 		position = position,
 		track = self.track,
 		switcher = self.switcher,
-		connector = self.connector
+		connector = self.connector,
+		id = go.get_id()
 	})
 end
