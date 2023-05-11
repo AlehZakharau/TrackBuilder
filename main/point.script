@@ -1,3 +1,4 @@
+go.property("id", 1)
 go.property("track", 1)
 go.property("switcher", false)
 go.property("connector", false)
@@ -6,12 +7,13 @@ go.property("connector", false)
 function init(self)
 	local parent =go.get_parent()
 
-	local position = go.get_position(".")
+	local position = go.get_world_position(".")
 	msg.post("/go", "point", {
 		position = position,
 		track = self.track,
 		switcher = self.switcher,
 		connector = self.connector,
-		id = go.get_id()
+		id = go.get_id(),
+		number = self.id
 	})
 end

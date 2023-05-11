@@ -13,6 +13,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "35.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -32,6 +40,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "27.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -53,6 +69,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "32.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -72,6 +96,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "4.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -93,6 +125,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "19.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -112,6 +152,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "13.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -133,6 +181,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "5.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -152,6 +208,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "37.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -173,6 +237,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "36.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -192,6 +264,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "18.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -213,6 +293,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "22.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -232,6 +320,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "16.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -253,6 +349,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "25.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -272,6 +376,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "21.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -293,6 +405,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "29.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -312,6 +432,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "26.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -333,6 +461,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "31.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -352,6 +488,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "8.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -373,6 +517,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "6.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -393,6 +545,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "28.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -412,6 +572,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "15.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -453,6 +621,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "24.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -472,6 +648,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "14.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -493,6 +677,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "12.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -512,6 +704,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "34.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -533,6 +733,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "20.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -552,6 +760,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "7.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -573,6 +789,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "33.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -592,6 +816,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "11.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -613,6 +845,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "9.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -632,6 +872,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "3.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -653,6 +901,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "10.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -672,6 +928,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "23.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -693,6 +957,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -712,6 +984,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "30.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -733,6 +1013,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "17.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -752,6 +1040,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "38.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -773,6 +1069,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "39.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -792,6 +1096,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "40.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -813,6 +1125,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "41.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -832,6 +1152,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "42.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -853,6 +1181,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "43.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -872,6 +1208,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "44.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -893,6 +1237,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "45.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -912,6 +1264,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "46.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -933,6 +1293,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "47.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -952,6 +1320,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "48.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -973,6 +1349,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "49.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -992,6 +1376,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "50.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1013,6 +1405,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "51.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1032,6 +1432,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "52.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1053,6 +1461,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "53.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1072,6 +1488,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "54.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1093,6 +1517,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "55.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1112,6 +1544,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "56.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1133,6 +1573,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "57.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1152,6 +1600,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "58.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1173,6 +1629,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "59.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1192,6 +1656,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "60.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1213,6 +1685,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "61.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1232,6 +1712,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "62.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1253,6 +1741,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "63.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1272,6 +1768,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "64.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1293,6 +1797,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "65.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1312,6 +1824,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "66.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1333,6 +1853,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "67.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1352,6 +1880,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "68.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1373,6 +1909,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "69.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1392,6 +1936,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "70.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1413,6 +1965,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "71.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1432,6 +1992,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "72.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1453,6 +2021,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "73.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1472,6 +2048,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "74.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1493,6 +2077,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "75.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1512,6 +2104,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "76.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1533,6 +2133,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "77.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1552,6 +2160,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "78.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1573,6 +2189,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "79.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1592,6 +2216,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "80.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1613,6 +2245,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "81.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1632,6 +2272,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "82.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1653,6 +2301,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "83.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1672,6 +2328,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "84.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1693,6 +2357,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "85.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1712,6 +2384,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "86.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1733,6 +2413,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "87.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1752,6 +2440,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "88.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1773,6 +2469,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "89.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1792,6 +2496,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "90.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1813,6 +2525,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "91.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1832,6 +2552,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "92.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1853,6 +2581,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "93.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1872,6 +2608,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "94.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1893,6 +2637,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "95.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1912,6 +2664,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "96.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1933,6 +2693,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "97.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1952,6 +2720,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "98.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -1973,6 +2749,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "99.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1992,6 +2776,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "100.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2013,6 +2805,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "101.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2032,6 +2832,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "102.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2053,6 +2861,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "103.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2072,6 +2888,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "104.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2093,6 +2917,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "105.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2112,6 +2944,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "106.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2133,6 +2973,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "107.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2152,6 +3000,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "108.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2173,6 +3029,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "109.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2192,6 +3056,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "110.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2213,6 +3085,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "111.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2232,6 +3112,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "112.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2253,6 +3141,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "113.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2272,6 +3168,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "114.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2293,6 +3197,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "115.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2312,6 +3224,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "116.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2333,6 +3253,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "117.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2352,6 +3280,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "118.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2373,6 +3309,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "119.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2392,6 +3336,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "120.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2413,6 +3365,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "121.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2432,6 +3392,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "122.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2453,6 +3421,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "123.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2472,6 +3448,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "124.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2493,6 +3477,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "125.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2512,6 +3504,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "126.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2533,6 +3533,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "127.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2552,6 +3560,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "128.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2573,6 +3589,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "129.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2592,6 +3616,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "130.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2613,6 +3645,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "131.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2632,6 +3672,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "132.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2653,6 +3701,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "133.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2672,6 +3728,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "134.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2693,6 +3757,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "135.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2712,6 +3784,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "136.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2733,6 +3813,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "137.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2752,6 +3840,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "138.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2773,6 +3869,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "139.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2792,6 +3896,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "140.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2813,6 +3925,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "141.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2832,6 +3952,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "142.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2853,6 +3981,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "143.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2872,6 +4008,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "144.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2893,6 +4037,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "145.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2912,6 +4064,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "146.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2933,6 +4093,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "147.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2952,6 +4120,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "148.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -2973,6 +4149,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "149.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -2992,6 +4176,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "150.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3013,6 +4205,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "151.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3032,6 +4232,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "152.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3053,6 +4261,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "153.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3072,6 +4288,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "154.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3093,6 +4317,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "155.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3112,6 +4344,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "156.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3133,6 +4373,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "157.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3152,6 +4400,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "158.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3173,6 +4429,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "159.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3192,6 +4456,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "160.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3213,6 +4485,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "161.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3232,6 +4512,14 @@ instances {
     y: 0.0
     z: 0.0
     w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "162.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3253,6 +4541,14 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "163.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -3273,4595 +4569,11 @@ instances {
     z: 0.0
     w: 1.0
   }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point166"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 456.0
-    y: 318.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
   component_properties {
     id: "point"
     properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point167"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 447.0
-    y: 328.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point168"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 438.0
-    y: 338.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point169"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 429.0
-    y: 348.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point170"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 419.0
-    y: 357.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point171"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 411.0
-    y: 366.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point172"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 400.0
-    y: 377.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point173"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 390.0
-    y: 387.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point174"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 380.0
-    y: 398.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point175"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 370.0
-    y: 408.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point176"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 359.0
-    y: 418.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point177"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 349.0
-    y: 426.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point178"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 338.0
-    y: 435.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point179"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 328.0
-    y: 442.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point180"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 317.0
-    y: 449.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point181"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 305.0
-    y: 455.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point182"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 295.0
-    y: 460.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point183"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 285.0
-    y: 463.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point184"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 275.0
-    y: 467.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point185"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 265.0
-    y: 470.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point186"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 255.0
-    y: 472.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point187"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 245.0
-    y: 473.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point188"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 235.0
-    y: 473.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point189"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 224.0
-    y: 473.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point190"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 214.0
-    y: 472.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point191"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 204.0
-    y: 471.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point192"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 195.0
-    y: 469.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point193"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 186.0
-    y: 467.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point194"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 176.0
-    y: 464.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point195"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 167.0
-    y: 461.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point196"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 157.0
-    y: 456.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point197"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 148.0
-    y: 450.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point198"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 138.0
-    y: 445.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point199"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 128.0
-    y: 438.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point200"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 119.0
-    y: 430.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point201"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 111.0
-    y: 422.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point202"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 104.0
-    y: 413.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point203"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 97.0
-    y: 404.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point204"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 91.0
-    y: 394.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point205"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 86.0
-    y: 384.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point206"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 82.0
-    y: 374.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point207"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 78.0
-    y: 364.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point208"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 75.0
-    y: 354.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point209"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 73.0
-    y: 343.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point210"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 71.0
-    y: 333.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point211"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 71.0
-    y: 323.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point212"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 71.0
-    y: 313.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point213"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 71.0
-    y: 303.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point214"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 72.0
-    y: 294.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point215"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 73.0
-    y: 285.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point216"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 75.0
-    y: 276.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point217"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 77.0
-    y: 267.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point218"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 80.0
-    y: 258.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point219"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 83.0
-    y: 249.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point220"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 87.0
-    y: 240.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point221"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 92.0
-    y: 231.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point222"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 97.0
-    y: 222.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point223"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 104.0
-    y: 213.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point224"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 111.0
-    y: 204.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point225"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 119.0
-    y: 197.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point226"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 127.0
-    y: 190.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point227"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 136.0
-    y: 183.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point229"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 145.0
-    y: 178.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point230"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 154.0
-    y: 173.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point231"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 163.0
-    y: 169.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point232"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 173.0
-    y: 166.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point233"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 183.0
-    y: 163.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point234"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 193.0
-    y: 161.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point235"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 203.0
-    y: 160.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point236"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 213.0
-    y: 159.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point237"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 223.0
-    y: 159.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point238"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 233.0
-    y: 159.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point239"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 243.0
-    y: 160.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point240"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 253.0
-    y: 161.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point241"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 263.0
-    y: 163.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point242"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 273.0
-    y: 165.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point243"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 282.0
-    y: 168.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point244"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 292.0
-    y: 172.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point245"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 302.0
-    y: 176.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point246"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 311.0
-    y: 181.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point247"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 320.0
-    y: 187.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point248"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 329.0
-    y: 192.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point249"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 337.0
-    y: 198.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point250"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 345.0
-    y: 203.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point251"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 353.0
-    y: 210.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point252"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 361.0
-    y: 216.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point253"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 369.0
-    y: 223.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point254"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 377.0
-    y: 230.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point255"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 384.0
-    y: 237.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point256"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 391.0
-    y: 244.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point257"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 398.0
-    y: 251.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point258"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 405.0
-    y: 258.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point259"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 412.0
-    y: 265.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point260"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 419.0
-    y: 273.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point261"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 427.0
-    y: 281.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point262"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 435.0
-    y: 288.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point263"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 443.0
-    y: 296.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point264"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 451.0
-    y: 304.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point265"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 459.0
-    y: 313.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point266"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 467.0
-    y: 321.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point267"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 475.0
-    y: 328.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point268"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 482.0
-    y: 336.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point269"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 489.0
-    y: 343.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point270"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 496.0
-    y: 350.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point271"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 503.0
-    y: 357.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point272"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 511.0
-    y: 363.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point273"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 519.0
-    y: 370.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point274"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 527.0
-    y: 376.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point275"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 535.0
-    y: 382.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point276"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 543.0
-    y: 387.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point277"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 551.0
-    y: 391.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point278"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 559.0
-    y: 395.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point279"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 567.0
-    y: 399.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point280"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 576.0
-    y: 402.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point281"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 584.0
-    y: 404.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point282"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 592.0
-    y: 406.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point283"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 601.0
-    y: 406.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point284"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 610.0
-    y: 406.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point285"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 619.0
-    y: 405.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point286"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 628.0
-    y: 403.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point287"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 637.0
-    y: 400.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point288"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 646.0
-    y: 396.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point289"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 655.0
-    y: 391.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point290"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 663.0
-    y: 385.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point291"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 671.0
-    y: 378.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point292"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 677.0
-    y: 370.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point293"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 681.0
-    y: 362.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point294"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 685.0
-    y: 354.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point295"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 688.0
-    y: 346.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point296"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 690.0
-    y: 337.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point297"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 692.0
-    y: 329.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point298"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 693.0
-    y: 320.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point299"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 693.0
-    y: 311.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point300"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 691.0
-    y: 302.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point301"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 690.0
-    y: 294.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point302"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 687.0
-    y: 285.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point303"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 683.0
-    y: 276.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point304"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 678.0
-    y: 267.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point305"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 672.0
-    y: 259.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point306"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 665.0
-    y: 252.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point307"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 657.0
-    y: 245.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point308"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 649.0
-    y: 239.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point309"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 641.0
-    y: 234.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point310"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 633.0
-    y: 231.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point311"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 624.0
-    y: 229.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point312"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 616.0
-    y: 227.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point313"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 607.0
-    y: 226.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point314"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 598.0
-    y: 226.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point315"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 589.0
-    y: 227.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point316"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 580.0
-    y: 229.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point317"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 571.0
-    y: 231.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point318"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 562.0
-    y: 234.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point319"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 553.0
-    y: 238.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point320"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 544.0
-    y: 243.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point321"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 536.0
-    y: 248.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point322"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 528.0
-    y: 254.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point323"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 520.0
-    y: 261.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point325"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 512.0
-    y: 267.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point326"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 504.0
-    y: 274.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point327"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 496.0
-    y: 282.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point328"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 488.0
-    y: 289.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point329"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 481.0
-    y: 297.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point330"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 473.0
-    y: 304.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-instances {
-  id: "point331"
-  prototype: "/main/point_track1.go"
-  position {
-    x: 465.0
-    y: 311.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  component_properties {
-    id: "point"
-    properties {
-      id: "track"
-      value: "2.0"
+      id: "id"
+      value: "164.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -7889,6 +4601,5413 @@ instances {
     x: 2.0
     y: 2.0
     z: 2.0
+  }
+}
+instances {
+  id: "point62"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 456.0
+    y: 318.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point159"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 447.0
+    y: 328.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point166"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 438.0
+    y: 338.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "3.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point167"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 429.0
+    y: 348.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "4.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point168"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 419.0
+    y: 357.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "5.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point169"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 411.0
+    y: 366.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "6.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point170"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 400.0
+    y: 377.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "7.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point171"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 390.0
+    y: 387.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "8.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point172"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 380.0
+    y: 398.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "9.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point173"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 370.0
+    y: 408.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "10.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point174"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 359.0
+    y: 418.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "11.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point175"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 349.0
+    y: 426.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "12.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point176"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 338.0
+    y: 435.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "13.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point177"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 328.0
+    y: 442.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "14.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point178"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 317.0
+    y: 449.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "15.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point179"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 305.0
+    y: 455.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "16.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point180"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 295.0
+    y: 460.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "17.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point181"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 285.0
+    y: 463.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "18.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point182"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 275.0
+    y: 467.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "19.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point183"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 265.0
+    y: 470.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "20.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point184"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 255.0
+    y: 472.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "21.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point185"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 245.0
+    y: 473.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "22.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point186"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 235.0
+    y: 473.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "23.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point187"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 224.0
+    y: 473.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "24.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point188"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 214.0
+    y: 472.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "25.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point189"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 204.0
+    y: 471.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "26.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point190"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 195.0
+    y: 469.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "27.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point191"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 186.0
+    y: 467.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "28.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point192"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 176.0
+    y: 464.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "29.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point193"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 167.0
+    y: 461.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "30.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point194"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 157.0
+    y: 456.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "31.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point195"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 148.0
+    y: 450.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "32.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point196"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 138.0
+    y: 445.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "33.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point197"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 128.0
+    y: 438.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "34.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point198"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 120.0
+    y: 430.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "35.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point199"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 111.0
+    y: 422.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "36.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point200"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 104.0
+    y: 413.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "37.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point201"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 97.0
+    y: 404.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "38.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point202"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 91.0
+    y: 394.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "39.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point203"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 86.0
+    y: 384.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "40.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point204"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 82.0
+    y: 374.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "41.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point205"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 78.0
+    y: 364.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "42.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point206"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 75.0
+    y: 354.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "43.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point207"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 73.0
+    y: 343.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "44.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point208"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 71.0
+    y: 333.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "45.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point209"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 71.0
+    y: 323.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "46.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point210"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 71.0
+    y: 313.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "47.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point211"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 71.0
+    y: 303.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "48.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point212"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 72.0
+    y: 294.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "49.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point213"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 73.0
+    y: 285.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "50.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point214"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 75.0
+    y: 276.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "51.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point215"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 77.0
+    y: 267.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "52.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point216"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 80.0
+    y: 258.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "53.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point217"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 83.0
+    y: 249.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "54.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point218"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 87.0
+    y: 240.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "55.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point219"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 92.0
+    y: 231.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "56.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point220"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 97.0
+    y: 222.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "57.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point221"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 104.0
+    y: 213.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "58.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point222"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 111.0
+    y: 204.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "59.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point223"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 119.0
+    y: 197.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "60.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point224"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 127.0
+    y: 190.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "61.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point225"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 136.0
+    y: 183.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "62.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point226"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 145.0
+    y: 178.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "63.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point227"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 154.0
+    y: 173.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "64.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point228"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 163.0
+    y: 169.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "65.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point229"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 173.0
+    y: 166.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "66.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point230"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 183.0
+    y: 163.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "67.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point231"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 193.0
+    y: 161.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "68.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point232"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 203.0
+    y: 160.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "69.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point233"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 213.0
+    y: 159.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "70.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point234"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 223.0
+    y: 159.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "71.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point235"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 233.0
+    y: 159.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "72.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point236"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 243.0
+    y: 160.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "73.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point237"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 253.0
+    y: 161.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "74.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point238"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 263.0
+    y: 163.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "75.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point239"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 273.0
+    y: 165.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "76.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point240"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 282.0
+    y: 168.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "77.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point241"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 292.0
+    y: 172.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "78.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point242"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 302.0
+    y: 176.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "79.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point243"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 311.0
+    y: 181.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "80.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point244"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 320.0
+    y: 187.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "81.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point245"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 329.0
+    y: 192.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "82.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point246"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 337.0
+    y: 198.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "83.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point247"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 345.0
+    y: 203.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "84.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point248"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 353.0
+    y: 210.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "85.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point249"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 361.0
+    y: 216.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "86.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point250"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 369.0
+    y: 223.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "87.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point251"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 377.0
+    y: 230.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "88.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point252"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 384.0
+    y: 237.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "89.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point253"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 391.0
+    y: 244.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "90.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point254"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 398.0
+    y: 251.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "91.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point255"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 405.0
+    y: 258.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "92.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point256"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 412.0
+    y: 265.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "93.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point257"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 419.0
+    y: 273.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "94.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point258"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 427.0
+    y: 281.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "95.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point259"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 435.0
+    y: 288.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "96.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point260"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 443.0
+    y: 296.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "97.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point261"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 451.0
+    y: 304.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "98.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point262"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 459.0
+    y: 313.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "99.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point263"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 467.0
+    y: 321.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "100.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point264"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 475.0
+    y: 328.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "101.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point265"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 482.0
+    y: 336.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "102.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point266"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 489.0
+    y: 343.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "103.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point267"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 496.0
+    y: 350.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "104.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point268"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 503.0
+    y: 357.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "105.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point269"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 511.0
+    y: 363.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "106.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point270"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 519.0
+    y: 370.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "107.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point271"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 527.0
+    y: 376.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "108.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point272"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 535.0
+    y: 382.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "109.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point273"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 543.0
+    y: 387.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "110.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point274"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 551.0
+    y: 391.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "111.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point275"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 559.0
+    y: 395.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "112.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point276"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 567.0
+    y: 399.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "113.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point277"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 576.0
+    y: 402.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "114.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point278"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 584.0
+    y: 404.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "115.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point279"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 592.0
+    y: 406.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "116.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point280"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 601.0
+    y: 406.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "117.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point281"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 610.0
+    y: 406.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "118.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point282"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 619.0
+    y: 405.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "119.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point283"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 628.0
+    y: 403.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "120.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point284"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 637.0
+    y: 400.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "121.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point285"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 646.0
+    y: 396.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "122.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point286"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 655.0
+    y: 391.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "123.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point287"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 663.0
+    y: 385.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "124.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point288"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 671.0
+    y: 378.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "125.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point289"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 677.0
+    y: 370.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "126.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point290"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 681.0
+    y: 362.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "127.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point291"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 685.0
+    y: 354.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "128.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point292"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 688.0
+    y: 346.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "129.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point293"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 690.0
+    y: 337.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "130.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point294"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 692.0
+    y: 329.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "131.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point295"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 693.0
+    y: 320.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "132.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point296"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 693.0
+    y: 311.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "133.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point297"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 691.0
+    y: 302.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "134.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point298"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 690.0
+    y: 294.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "135.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point299"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 687.0
+    y: 285.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "136.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point300"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 683.0
+    y: 276.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "137.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point301"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 678.0
+    y: 267.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "138.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point302"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 672.0
+    y: 259.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "139.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point303"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 665.0
+    y: 252.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "140.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point304"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 657.0
+    y: 245.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "141.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point305"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 649.0
+    y: 239.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "142.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point306"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 641.0
+    y: 234.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "143.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point307"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 633.0
+    y: 231.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "144.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point308"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 624.0
+    y: 229.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "145.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point309"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 616.0
+    y: 227.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "146.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point310"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 607.0
+    y: 226.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "147.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point311"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 598.0
+    y: 226.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "148.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point312"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 589.0
+    y: 227.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "149.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point313"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 580.0
+    y: 229.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "150.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point314"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 571.0
+    y: 231.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "151.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point315"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 562.0
+    y: 234.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "152.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point316"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 553.0
+    y: 238.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "153.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point317"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 544.0
+    y: 243.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "154.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point318"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 536.0
+    y: 248.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "155.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point319"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 528.0
+    y: 254.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "156.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point320"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 520.0
+    y: 261.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "157.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point321"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 512.0
+    y: 267.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "158.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point322"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 504.0
+    y: 274.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "159.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point323"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 496.0
+    y: 282.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "160.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point324"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 488.0
+    y: 289.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "161.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point325"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 481.0
+    y: 297.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "162.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point326"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 473.0
+    y: 304.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "163.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "point327"
+  prototype: "/main/point_track1.go"
+  position {
+    x: 465.0
+    y: 311.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  component_properties {
+    id: "point"
+    properties {
+      id: "id"
+      value: "164.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "track"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
   }
 }
 scale_along_z: 0
@@ -8222,6 +10341,7 @@ embedded_instances {
 }
 embedded_instances {
   id: "track_2"
+  children: "point159"
   children: "point166"
   children: "point167"
   children: "point168"
@@ -8284,6 +10404,7 @@ embedded_instances {
   children: "point225"
   children: "point226"
   children: "point227"
+  children: "point228"
   children: "point229"
   children: "point230"
   children: "point231"
@@ -8379,13 +10500,11 @@ embedded_instances {
   children: "point321"
   children: "point322"
   children: "point323"
+  children: "point324"
   children: "point325"
   children: "point326"
   children: "point327"
-  children: "point328"
-  children: "point329"
-  children: "point330"
-  children: "point331"
+  children: "point62"
   data: "components {\n"
   "  id: \"track\"\n"
   "  component: \"/main/track.script\"\n"
@@ -8405,7 +10524,7 @@ embedded_instances {
   "}\n"
   ""
   position {
-    x: 832.0
+    x: 827.0
     y: 0.0
     z: 0.0
   }
