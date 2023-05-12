@@ -651,6 +651,19 @@ instances {
     z: 0.0
     w: 1.0
   }
+  component_properties {
+    id: "point"
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "262.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+  }
   scale3 {
     x: 1.0
     y: 1.0
@@ -1032,6 +1045,16 @@ instances {
     properties {
       id: "id"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "263.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -3918,6 +3941,16 @@ instances {
       value: "138.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "224.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -3944,6 +3977,16 @@ instances {
     properties {
       id: "id"
       value: "139.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "225.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -3974,6 +4017,16 @@ instances {
       value: "140.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "226.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4000,6 +4053,16 @@ instances {
     properties {
       id: "id"
       value: "141.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "227.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -4030,6 +4093,16 @@ instances {
       value: "142.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "228.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4056,6 +4129,16 @@ instances {
     properties {
       id: "id"
       value: "143.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "229.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -4618,6 +4701,16 @@ instances {
       value: "163.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "260.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -4644,6 +4737,16 @@ instances {
     properties {
       id: "id"
       value: "164.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "261.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -5750,6 +5853,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "126.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5781,6 +5894,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "127.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -5816,6 +5939,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "128.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5847,6 +5980,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "129.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -5882,6 +6025,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "130.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5915,6 +6068,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "131.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -5946,6 +6109,11 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "connector_index"
+      value: "0.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -7664,6 +7832,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -7695,6 +7873,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "3.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -7730,6 +7918,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "4.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -7761,6 +7959,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "5.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -9215,6 +9423,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "61.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -9246,6 +9464,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "62.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -9281,6 +9509,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "63.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -9312,6 +9550,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "64.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -9347,6 +9595,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "65.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -9378,6 +9636,16 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "66.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
