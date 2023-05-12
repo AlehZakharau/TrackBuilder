@@ -21,9 +21,13 @@ function on_message(self, message_id, message, sender)
 		--print("point " .. " track: " .. message.track .. " || " .. message.position )
 		common_points[message.id] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector, id = message.id }
 		if message.track == 1 then
-			points_track_1[message.number] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector, id = message.id }
+			local switcher_index = 0
+			if message.switcher == true then switcher_index = 1 end
+			points_track_1[message.number] = {position = message.position, track = message.track, switcher = switcher_index, connector = message.connector, id = message.id }
 		else
-			points_track_2[message.number] = {position = message.position, track = message.track, switcher = message.switcher, connector = message.connector, id = message.id }
+			local switcher_index = 0
+			if message.switcher == true then switcher_index = 1 end
+			points_track_2[message.number] = {position = message.position, track = message.track, switcher = switcher_index, connector = message.connector, id = message.id }
 		end
 	end	
 end
@@ -51,7 +55,7 @@ local function write_track(file_name, track)
 	local sepr = ","
 	local file = io.open(file_path..file_name, "w")
 	for k,v in pairs(track) do
-		file:write(k..sepr..v.position.x..sepr..v.position.y..sepr..v.track.."\n")
+		file:write(k..sepr..v.position.x..sepr..v.position.y..sepr..v.switcher..sepr..v.connector.."\n")
 	end
 	file:close()
 end

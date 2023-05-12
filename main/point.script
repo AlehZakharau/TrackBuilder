@@ -1,7 +1,7 @@
 go.property("id", 1)
 go.property("track", 1)
 go.property("switcher", false)
-go.property("connector", false)
+go.property("connector_index", 0)
 
 
 function init(self)
@@ -12,7 +12,7 @@ function init(self)
 		position = position,
 		track = self.track,
 		switcher = self.switcher,
-		connector = self.connector,
+		connector = self.connector_index,
 		id = go.get_id(),
 		number = self.id
 	})

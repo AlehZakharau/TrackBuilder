@@ -20,6 +20,16 @@ instances {
       value: "35.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "290.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -48,6 +58,11 @@ instances {
       value: "27.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "connector_index"
+      value: "288.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -74,6 +89,16 @@ instances {
     properties {
       id: "id"
       value: "32.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "287.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -216,6 +241,16 @@ instances {
       value: "37.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "292.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -242,6 +277,16 @@ instances {
     properties {
       id: "id"
       value: "36.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "291.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -438,6 +483,11 @@ instances {
     properties {
       id: "id"
       value: "26.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "connector_index"
+      value: "287.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -712,6 +762,16 @@ instances {
       value: "34.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "289.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -794,6 +854,16 @@ instances {
     properties {
       id: "id"
       value: "33.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "288.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
