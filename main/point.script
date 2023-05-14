@@ -2,6 +2,7 @@ go.property("id", 1)
 go.property("track", 1)
 go.property("switcher", false)
 go.property("connector_index", 0)
+go.property("bonus", 0)
 
 
 function init(self)
@@ -14,6 +15,7 @@ function init(self)
 		switcher = self.switcher,
 		connector = self.connector_index,
 		id = go.get_id(),
-		number = self.id
+		number = self.id,
+		bonus = self.bonus
 	})
 end

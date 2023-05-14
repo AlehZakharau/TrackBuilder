@@ -2,6 +2,7 @@ name: "main"
 instances {
   id: "point34"
   prototype: "/main/point_track1.go"
+  children: "switcher11"
   position {
     x: 120.0
     y: 430.0
@@ -73,6 +74,7 @@ instances {
 instances {
   id: "point31"
   prototype: "/main/point_track1.go"
+  children: "switcher6"
   position {
     x: 148.0
     y: 450.0
@@ -111,6 +113,7 @@ instances {
 instances {
   id: "point3"
   prototype: "/main/point_track1.go"
+  children: "connector6"
   position {
     x: 429.0
     y: 348.0
@@ -195,6 +198,7 @@ instances {
 instances {
   id: "point4"
   prototype: "/main/point_track1.go"
+  children: "connector5"
   position {
     x: 419.0
     y: 357.0
@@ -223,6 +227,7 @@ instances {
 instances {
   id: "point36"
   prototype: "/main/point_track1.go"
+  children: "switcher21"
   position {
     x: 104.0
     y: 413.0
@@ -261,6 +266,7 @@ instances {
 instances {
   id: "point35"
   prototype: "/main/point_track1.go"
+  children: "switcher20"
   position {
     x: 111.0
     y: 422.0
@@ -556,6 +562,8 @@ instances {
 instances {
   id: "point5"
   prototype: "/main/point_track1.go"
+  children: "bonus4"
+  children: "connector4"
   position {
     x: 411.0
     y: 366.0
@@ -572,6 +580,11 @@ instances {
     properties {
       id: "id"
       value: "6.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -640,6 +653,7 @@ instances {
 instances {
   id: "point"
   prototype: "/main/point_track1.go"
+  children: "switcher"
   position {
     x: 456.0
     y: 318.0
@@ -757,6 +771,7 @@ instances {
 instances {
   id: "point33"
   prototype: "/main/point_track1.go"
+  children: "switcher10"
   position {
     x: 128.0
     y: 438.0
@@ -851,6 +866,7 @@ instances {
 instances {
   id: "point32"
   prototype: "/main/point_track1.go"
+  children: "switcher7"
   position {
     x: 138.0
     y: 445.0
@@ -945,6 +961,7 @@ instances {
 instances {
   id: "point2"
   prototype: "/main/point_track1.go"
+  children: "connector7"
   position {
     x: 438.0
     y: 338.0
@@ -1029,6 +1046,7 @@ instances {
 instances {
   id: "point1"
   prototype: "/main/point_track1.go"
+  children: "switcher1"
   position {
     x: 447.0
     y: 328.0
@@ -1347,6 +1365,7 @@ instances {
 instances {
   id: "point45"
   prototype: "/main/point_track1.go"
+  children: "bonus"
   position {
     x: 71.0
     y: 323.0
@@ -1363,6 +1382,11 @@ instances {
     properties {
       id: "id"
       value: "46.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -1795,6 +1819,7 @@ instances {
 instances {
   id: "point61"
   prototype: "/main/point_track1.go"
+  children: "connector12"
   position {
     x: 136.0
     y: 183.0
@@ -1823,6 +1848,7 @@ instances {
 instances {
   id: "point63"
   prototype: "/main/point_track1.go"
+  children: "connector13"
   position {
     x: 145.0
     y: 178.0
@@ -1851,6 +1877,7 @@ instances {
 instances {
   id: "point64"
   prototype: "/main/point_track1.go"
+  children: "connector14"
   position {
     x: 154.0
     y: 173.0
@@ -1879,6 +1906,7 @@ instances {
 instances {
   id: "point65"
   prototype: "/main/point_track1.go"
+  children: "connector15"
   position {
     x: 163.0
     y: 169.0
@@ -1907,6 +1935,7 @@ instances {
 instances {
   id: "point66"
   prototype: "/main/point_track1.go"
+  children: "connector18"
   position {
     x: 173.0
     y: 166.0
@@ -1935,6 +1964,7 @@ instances {
 instances {
   id: "point67"
   prototype: "/main/point_track1.go"
+  children: "connector19"
   position {
     x: 183.0
     y: 163.0
@@ -3587,6 +3617,7 @@ instances {
 instances {
   id: "point126"
   prototype: "/main/point_track1.go"
+  children: "connector20"
   position {
     x: 677.0
     y: 370.0
@@ -3615,6 +3646,7 @@ instances {
 instances {
   id: "point127"
   prototype: "/main/point_track1.go"
+  children: "connector21"
   position {
     x: 681.0
     y: 362.0
@@ -3643,6 +3675,7 @@ instances {
 instances {
   id: "point128"
   prototype: "/main/point_track1.go"
+  children: "connector22"
   position {
     x: 685.0
     y: 354.0
@@ -3671,6 +3704,7 @@ instances {
 instances {
   id: "point129"
   prototype: "/main/point_track1.go"
+  children: "connector23"
   position {
     x: 688.0
     y: 346.0
@@ -3699,6 +3733,7 @@ instances {
 instances {
   id: "point130"
   prototype: "/main/point_track1.go"
+  children: "connector24"
   position {
     x: 690.0
     y: 337.0
@@ -3727,6 +3762,7 @@ instances {
 instances {
   id: "point131"
   prototype: "/main/point_track1.go"
+  children: "connector25"
   position {
     x: 692.0
     y: 329.0
@@ -3923,6 +3959,7 @@ instances {
 instances {
   id: "point138"
   prototype: "/main/point_track1.go"
+  children: "switcher26"
   position {
     x: 678.0
     y: 267.0
@@ -3961,6 +3998,7 @@ instances {
 instances {
   id: "point139"
   prototype: "/main/point_track1.go"
+  children: "switcher27"
   position {
     x: 672.0
     y: 259.0
@@ -3999,6 +4037,7 @@ instances {
 instances {
   id: "point140"
   prototype: "/main/point_track1.go"
+  children: "switcher28"
   position {
     x: 665.0
     y: 252.0
@@ -4037,6 +4076,7 @@ instances {
 instances {
   id: "point141"
   prototype: "/main/point_track1.go"
+  children: "switcher29"
   position {
     x: 657.0
     y: 245.0
@@ -4075,6 +4115,7 @@ instances {
 instances {
   id: "point142"
   prototype: "/main/point_track1.go"
+  children: "switcher30"
   position {
     x: 649.0
     y: 239.0
@@ -4113,6 +4154,7 @@ instances {
 instances {
   id: "point143"
   prototype: "/main/point_track1.go"
+  children: "switcher31"
   position {
     x: 641.0
     y: 234.0
@@ -4263,6 +4305,7 @@ instances {
 instances {
   id: "point148"
   prototype: "/main/point_track1.go"
+  children: "bonus3"
   position {
     x: 598.0
     y: 226.0
@@ -4279,6 +4322,11 @@ instances {
     properties {
       id: "id"
       value: "148.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -4683,6 +4731,7 @@ instances {
 instances {
   id: "point164"
   prototype: "/main/point_track1.go"
+  children: "switcher3"
   position {
     x: 473.0
     y: 304.0
@@ -4721,6 +4770,7 @@ instances {
 instances {
   id: "point165"
   prototype: "/main/point_track1.go"
+  children: "switcher2"
   position {
     x: 465.0
     y: 311.0
@@ -5830,6 +5880,7 @@ instances {
 instances {
   id: "point196"
   prototype: "/main/point_track1.go"
+  children: "switcher16"
   position {
     x: 138.0
     y: 445.0
@@ -5873,6 +5924,7 @@ instances {
 instances {
   id: "point197"
   prototype: "/main/point_track1.go"
+  children: "switcher17"
   position {
     x: 128.0
     y: 438.0
@@ -5916,6 +5968,7 @@ instances {
 instances {
   id: "point198"
   prototype: "/main/point_track1.go"
+  children: "switcher18"
   position {
     x: 120.0
     y: 430.0
@@ -5959,6 +6012,7 @@ instances {
 instances {
   id: "point199"
   prototype: "/main/point_track1.go"
+  children: "switcher19"
   position {
     x: 111.0
     y: 422.0
@@ -6002,6 +6056,7 @@ instances {
 instances {
   id: "point200"
   prototype: "/main/point_track1.go"
+  children: "switcher24"
   position {
     x: 104.0
     y: 413.0
@@ -6045,6 +6100,7 @@ instances {
 instances {
   id: "point201"
   prototype: "/main/point_track1.go"
+  children: "switcher25"
   position {
     x: 97.0
     y: 404.0
@@ -6109,11 +6165,6 @@ instances {
     properties {
       id: "track"
       value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
-    properties {
-      id: "connector_index"
-      value: "0.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -6357,6 +6408,7 @@ instances {
 instances {
   id: "point210"
   prototype: "/main/point_track1.go"
+  children: "bonus2"
   position {
     x: 71.0
     y: 313.0
@@ -6378,6 +6430,11 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -6819,6 +6876,7 @@ instances {
 instances {
   id: "point224"
   prototype: "/main/point_track1.go"
+  children: "connector26"
   position {
     x: 127.0
     y: 190.0
@@ -6852,6 +6910,7 @@ instances {
 instances {
   id: "point225"
   prototype: "/main/point_track1.go"
+  children: "connector27"
   position {
     x: 136.0
     y: 183.0
@@ -6885,6 +6944,7 @@ instances {
 instances {
   id: "point226"
   prototype: "/main/point_track1.go"
+  children: "connector28"
   position {
     x: 145.0
     y: 178.0
@@ -6918,6 +6978,7 @@ instances {
 instances {
   id: "point227"
   prototype: "/main/point_track1.go"
+  children: "connector29"
   position {
     x: 154.0
     y: 173.0
@@ -6951,6 +7012,7 @@ instances {
 instances {
   id: "point228"
   prototype: "/main/point_track1.go"
+  children: "connector30"
   position {
     x: 163.0
     y: 169.0
@@ -6984,6 +7046,7 @@ instances {
 instances {
   id: "point229"
   prototype: "/main/point_track1.go"
+  children: "connector31"
   position {
     x: 173.0
     y: 166.0
@@ -7832,16 +7895,6 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
-    properties {
-      id: "switcher"
-      value: "true"
-      type: PROPERTY_TYPE_BOOLEAN
-    }
-    properties {
-      id: "connector_index"
-      value: "2.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
   }
   scale3 {
     x: 1.0
@@ -7875,16 +7928,6 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
-    properties {
-      id: "switcher"
-      value: "true"
-      type: PROPERTY_TYPE_BOOLEAN
-    }
-    properties {
-      id: "connector_index"
-      value: "3.0"
-      type: PROPERTY_TYPE_NUMBER
-    }
   }
   scale3 {
     x: 1.0
@@ -7895,6 +7938,7 @@ instances {
 instances {
   id: "point256"
   prototype: "/main/point_track1.go"
+  children: "switcher5"
   position {
     x: 412.0
     y: 265.0
@@ -7925,7 +7969,7 @@ instances {
     }
     properties {
       id: "connector_index"
-      value: "4.0"
+      value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -7938,6 +7982,7 @@ instances {
 instances {
   id: "point257"
   prototype: "/main/point_track1.go"
+  children: "switcher4"
   position {
     x: 419.0
     y: 273.0
@@ -7968,7 +8013,7 @@ instances {
     }
     properties {
       id: "connector_index"
-      value: "5.0"
+      value: "3.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -7981,6 +8026,7 @@ instances {
 instances {
   id: "point258"
   prototype: "/main/point_track1.go"
+  children: "switcher8"
   position {
     x: 427.0
     y: 281.0
@@ -8004,6 +8050,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "4.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -8014,6 +8070,7 @@ instances {
 instances {
   id: "point259"
   prototype: "/main/point_track1.go"
+  children: "switcher9"
   position {
     x: 435.0
     y: 288.0
@@ -8037,6 +8094,16 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+    properties {
+      id: "switcher"
+      value: "true"
+      type: PROPERTY_TYPE_BOOLEAN
+    }
+    properties {
+      id: "connector_index"
+      value: "5.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
   }
   scale3 {
     x: 1.0
@@ -8047,6 +8114,7 @@ instances {
 instances {
   id: "point260"
   prototype: "/main/point_track1.go"
+  children: "connector3"
   position {
     x: 443.0
     y: 296.0
@@ -8080,6 +8148,7 @@ instances {
 instances {
   id: "point261"
   prototype: "/main/point_track1.go"
+  children: "connector2"
   position {
     x: 451.0
     y: 304.0
@@ -8113,6 +8182,7 @@ instances {
 instances {
   id: "point262"
   prototype: "/main/point_track1.go"
+  children: "connector1"
   position {
     x: 459.0
     y: 313.0
@@ -8146,6 +8216,8 @@ instances {
 instances {
   id: "point263"
   prototype: "/main/point_track1.go"
+  children: "bonus5"
+  children: "connector"
   position {
     x: 467.0
     y: 321.0
@@ -8167,6 +8239,11 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -8971,6 +9048,7 @@ instances {
 instances {
   id: "point288"
   prototype: "/main/point_track1.go"
+  children: "connector8"
   position {
     x: 671.0
     y: 378.0
@@ -9004,6 +9082,7 @@ instances {
 instances {
   id: "point289"
   prototype: "/main/point_track1.go"
+  children: "connector9"
   position {
     x: 677.0
     y: 370.0
@@ -9037,6 +9116,7 @@ instances {
 instances {
   id: "point290"
   prototype: "/main/point_track1.go"
+  children: "connector10"
   position {
     x: 681.0
     y: 362.0
@@ -9070,6 +9150,7 @@ instances {
 instances {
   id: "point291"
   prototype: "/main/point_track1.go"
+  children: "connector11"
   position {
     x: 685.0
     y: 354.0
@@ -9103,6 +9184,7 @@ instances {
 instances {
   id: "point292"
   prototype: "/main/point_track1.go"
+  children: "connector16"
   position {
     x: 688.0
     y: 346.0
@@ -9136,6 +9218,7 @@ instances {
 instances {
   id: "point293"
   prototype: "/main/point_track1.go"
+  children: "connector17"
   position {
     x: 690.0
     y: 337.0
@@ -9400,6 +9483,7 @@ instances {
 instances {
   id: "point301"
   prototype: "/main/point_track1.go"
+  children: "switcher12"
   position {
     x: 678.0
     y: 267.0
@@ -9443,6 +9527,7 @@ instances {
 instances {
   id: "point302"
   prototype: "/main/point_track1.go"
+  children: "switcher13"
   position {
     x: 672.0
     y: 259.0
@@ -9486,6 +9571,7 @@ instances {
 instances {
   id: "point303"
   prototype: "/main/point_track1.go"
+  children: "switcher14"
   position {
     x: 665.0
     y: 252.0
@@ -9529,6 +9615,7 @@ instances {
 instances {
   id: "point304"
   prototype: "/main/point_track1.go"
+  children: "switcher15"
   position {
     x: 657.0
     y: 245.0
@@ -9572,6 +9659,7 @@ instances {
 instances {
   id: "point305"
   prototype: "/main/point_track1.go"
+  children: "switcher23"
   position {
     x: 649.0
     y: 239.0
@@ -9615,6 +9703,7 @@ instances {
 instances {
   id: "point306"
   prototype: "/main/point_track1.go"
+  children: "switcher22"
   position {
     x: 641.0
     y: 234.0
@@ -9757,6 +9846,7 @@ instances {
 instances {
   id: "point310"
   prototype: "/main/point_track1.go"
+  children: "bonus1"
   position {
     x: 607.0
     y: 226.0
@@ -9778,6 +9868,11 @@ instances {
     properties {
       id: "track"
       value: "2.0"
+      type: PROPERTY_TYPE_NUMBER
+    }
+    properties {
+      id: "bonus"
+      value: "1.0"
       type: PROPERTY_TYPE_NUMBER
     }
   }
@@ -10341,6 +10436,1406 @@ instances {
       value: "2.0"
       type: PROPERTY_TYPE_NUMBER
     }
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher1"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher2"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher3"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher4"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.1
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher5"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector1"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector2"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector3"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector4"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector5"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector6"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector7"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher8"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher9"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher6"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher7"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher10"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher11"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector8"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector9"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector10"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector11"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher12"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher13"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher14"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher15"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector12"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector13"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector14"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector15"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher16"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher17"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher18"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher19"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher20"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher21"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector16"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector17"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher22"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher23"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector18"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector19"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher24"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher25"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector20"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector21"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector22"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector23"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector24"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector25"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher26"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher27"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher28"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher29"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher30"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "switcher31"
+  prototype: "/main/switcher.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector26"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector27"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector28"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector29"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector30"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "connector31"
+  prototype: "/main/connector.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus1"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus2"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus3"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus4"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+instances {
+  id: "bonus5"
+  prototype: "/main/bonus.go"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
   }
   scale3 {
     x: 1.0
